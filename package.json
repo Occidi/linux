@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.15.2",
     "express": "^4.13.4",
     "express-handlebars": "^3.0.0",
-    "express3-handlebars": "^0.5.2"
+    "express3-handlebars": "^0.5.2",
+    "passport": "^0.3.2",
+    "passport-ldapauth": "^0.6.0"
   }
 }
