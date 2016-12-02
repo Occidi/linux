@@ -2,8 +2,6 @@ var express = require('express');
 
 var exphbs = require('express3-handlebars');
 
-var request = require('request');
-var async = require('async');
 var fs = require('fs');
 var bodyParser   = require('body-parser');
 var passport = require('passport');
